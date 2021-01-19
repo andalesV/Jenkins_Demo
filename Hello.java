@@ -1,4 +1,3 @@
-package com.maybank.forms.controller;
 
 public class Hello {
 
